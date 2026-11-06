@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>VibeCamp Bridge</title>
+        <!--
+          Sparkle's update feed, served from main at
+          https://raw.githubusercontent.com/tornikegomareli/vibecamp/main/appcast.xml
+
+          The bridge's scripts/release.sh regenerates this file with generate_appcast and commits it with each release.
+          Do not edit it by hand.
+
+          Before the first release the channel is empty on purpose: an empty channel makes a check report "you're up
+          to date", and a missing file makes it report a failure.
+        -->
+    </channel>
+</rss>
