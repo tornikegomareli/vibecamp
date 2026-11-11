@@ -12,5 +12,15 @@
           Before the first release the channel is empty on purpose: an empty channel makes a check report "you're up
           to date", and a missing file makes it report a failure.
         -->
+        <item>
+            <title>0.1.0</title>
+            <pubDate>Wed, 11 Nov 2026 11:10:25 +0400</pubDate>
+            <link>https://github.com/tornikegomareli/vibecamp</link>
+            <sparkle:fullReleaseNotesLink>https://github.com/tornikegomareli/vibecamp/releases</sparkle:fullReleaseNotesLink>
+            <sparkle:version>102</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/tornikegomareli/vibecamp/releases/download/v0.1.0/VibeCamp-Bridge-v0.1.0.zip" length="2431628" type="application/octet-stream" sparkle:edSignature="mUM2skpNjBHD7YVcNYoBUy6fY3FTZ6eP0Nfc3lOuv3unQyy0jYKSyZ1QxYJPuUf/0CnUuNyyk0LP3lVoRovACA=="/>
+        </item>
     </channel>
 </rss>
