@@ -5,6 +5,8 @@ The Mac half of VibeCamp, the iPhone app. It puts the coding agents on your Mac
 
 This repo holds the releases: the notarized DMG, the Homebrew cask, and the update feed.
 
+The site: https://vibecamp.whoopscope.workers.dev
+
 ## Install
 
 With Homebrew:
